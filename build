@@ -79,8 +79,6 @@ make_output() {
 	then
 	    mkdir ${DEIVCE_OUTPUT_DIR}
 	fi
-	
-	make O=${DEIVCE_OUTPUT_DIR} mrproper
 }
 
 show_usage() {
