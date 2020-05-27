@@ -11,10 +11,6 @@
 
 /out
 
-*defconfig filter=tenbuild-local
-*mkcompile_h filter=tenbuild-local
-*setlocalversion filter=tenbuild-local
-
 Galahad*.zip
 /anykernel/zImage
 /anykernel/Image.gz-dtb
