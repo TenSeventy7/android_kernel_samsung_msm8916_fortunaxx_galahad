@@ -179,9 +179,9 @@ build_kernel_full() {
 
 script_echo ''
 script_echo '====================================================='
-script_echo '             Project Galahad Kernel Builder          '
+script_echo '            Project Galahad Kernel Builder           '
 script_echo '          by TenSeventy7 - Licensed in GPLv3         '
-script_echo '                 Updated May 14 2020                 '
+script_echo '                 Updated May 27 2020                 '
 script_echo '====================================================='
 script_echo ''
 
