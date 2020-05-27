@@ -78,10 +78,9 @@ make_output() {
 	if [[ ! -d "${DEIVCE_OUTPUT_DIR}" ]]
 	then
 	    mkdir ${DEIVCE_OUTPUT_DIR}
-		make O=${DEIVCE_OUTPUT_DIR} mrproper
-	else
-		make O=${DEIVCE_OUTPUT_DIR} mrproper
 	fi
+	
+	make O=${DEIVCE_OUTPUT_DIR} mrproper
 }
 
 show_usage() {
