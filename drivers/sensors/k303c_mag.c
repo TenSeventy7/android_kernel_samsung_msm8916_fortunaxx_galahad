@@ -1743,3 +1743,4 @@ module_exit(k303c_mag_exit);
 MODULE_DESCRIPTION("k303c magnetometer driver");
 MODULE_AUTHOR("Matteo Dameno, Denis Ciocca, STMicroelectronics");
 MODULE_LICENSE("GPL");
+

@@ -1497,3 +1497,4 @@ module_exit(k303c_acc_exit);
 MODULE_DESCRIPTION("K303C accelerometer sensor driver");
 MODULE_AUTHOR("Samsung Electronics");
 MODULE_LICENSE("GPL");
+
